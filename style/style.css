@@ -1,0 +1,49 @@
+body{
+    margin: 0px 0px ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);}
+    .circle{
+    background-image: url(https://pbs.twimg.com/media/EO6MSmtWkAAz_5h.jpg:large);
+    background-position: center;
+    background-size: 90px 90px;
+    width: 90px;
+    height: 90px;
+    background-color: rgb(247, 240, 240);
+    margin-left: 900px;
+    margin-top:-65px;
+    border-radius: 50px;
+    border:solid 3px rgb(182, 198, 226);}
+    .shap{background-color: rgb(131, 131, 255);
+    width: 100%;
+    height: 130px;
+    border:solid 3px rgb(182, 198, 226);
+    display:inline-block;}
+    h1{padding-left: 100px;
+        padding-top: 10px;
+        display:inline-block;
+    color: cornsilk;}
+    .cont{
+    background: url(https://pbs.twimg.com/media/EO6MSmtWkAAz_5h.jpg:large);
+    height: 700px;
+    width: 700px;
+    background-size: 700px 700px;
+    float:left;
+}
+p{color: rgb(83, 76, 9);
+    text-indent:50px;
+    padding: 10px;
+line-height:2em;}
+ul{padding: 10px;
+    list-style-type: square;
+    list-style-position: outside;
+    list-style-image:url(https://sun1-22.userapi.com/impf/c855436/v855436870/b89da/ldh0SvHgWds.jpg?size=50x0&quality=96&crop=73,76,420,420&sign=5dae1e0bfe371aa49b27196a6d7306d3&ava=1);
+
+    line-height:2em;
+margin-left: 100px;
+color:rgb(94, 87, 2)}
+.cog{background:url(https://pm1.narvii.com/6901/702f95eca105ea030b420b5d41df22cf2de5546br1-1080-1608v2_hq.jpg)no-repeat;;
+    height: 400px;
+    width: 500px;
+    margin-right: 25px;
+float: right;}
